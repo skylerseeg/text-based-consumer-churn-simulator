@@ -1,0 +1,23 @@
+# Core Libraries
+numpy
+pandas
+# For data processing & CSV handling
+
+# Machine Learning & Language Modeling
+torch>=1.10
+transformers>=4.24
+accelerate>=0.12
+# These versions may change based on Llama 3.2 compatibility 
+# Adjust as newer releases come out.
+
+# Utility
+huggingface_hub
+# For downloading/uploading models & data from Hugging Face
+
+# Testing
+pytest
+# or unittest if you prefer
+
+# Optional: Additional Tools
+# wandb                  # For experiment tracking
+# mlflow                # Another experiment-tracking option

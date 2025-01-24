@@ -1,0 +1,15 @@
+name: churn_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - pytorch
+  - transformers
+  - accelerate
+  - huggingface_hub
+  - mlflow=2.19.0
+  # Add any other packages your project needs
+

@@ -1,0 +1,16 @@
+{
+    "demographics": {
+      "age_range": [25, 45],
+      "locations": ["New York", "California", "Texas"]
+    },
+    "purchase_history": {
+      "lookback_period": 12,
+      "min_purchases": 1,
+      "max_purchases": 10
+    },
+    "churn_threshold": 0.7,
+    "psychographics": {
+      "interests": ["tech", "fitness", "music"]
+    }
+  }
+  
